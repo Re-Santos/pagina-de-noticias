@@ -15,6 +15,7 @@
     line-height: 50px;      
 }
 
+
 .titulo h1{
     margin-top: 200px;
     font-family: arial;
@@ -53,7 +54,9 @@
 	margin-right:auto;
 	margin-left:auto;
 }
-.titulo h4{
+
+figcaption{
+
     margin-left: 433px;
     font-family: arial Regular;
     color: #696969;
@@ -62,7 +65,7 @@
 
 .conteudo {
     margin-left: 433px;
-    margin-right:433px;
+    margin-right:400px;
     font-size: 26px;
     line-height: 40px;
     font-family: arial Regular;
@@ -81,9 +84,32 @@
     color:black;
     margin-left: 433px;
 }
+
+.iframe{
+    position: relative;
+    text-align: center;
+}
+
+.extras iframe{
+    margin-left: 433px;
+}
+
+.extras h2{
+    font-size: 30px;
+    margin-left: 433px;
+    font-family: arial Regular;
+    color: black;
+    
+}
+
 body hr{
     margin-left: 300px;
     margin-right: 250px;
     margin-top: 50px;
     margin-bottom: 50px;
 
+}
+
+
+
+    
