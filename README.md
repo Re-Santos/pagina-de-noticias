@@ -1,1 +1,1 @@
-# pagina-de-noticias
+# pagina-de-notícias
